@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #c3ebde;
+}
+.container{
+    /* width: 400px; */
+    background-color: aquamarine;
+    border: 3px solid #96d3e1;
+    padding: 20px 15px;
+    margin: 15px;
+    border-top-left-radius: 12px;
+    border-top-Right-radius: 20px;
+    width: 300px;
+}
+/* Padding in short 
+/* Padding= top right bottom left
+   padding : 1px 1px 1px 1px ;   
+/* Margin in short 
+/* Margin= top right bottom left
+   Margin : 1px 1px 1px 1px ;   
+/* And also can be written as  
+   Padding= Y(Top/Bottom) X(Right/Left)
+   Margin= Y(Top/Bottom) X(Right/Left)*/
+
+
