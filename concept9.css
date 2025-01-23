@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    
+}
+.container{
+    width: 900px;
+    margin:33px auto;
+    border: 2px solid violet;
+    background-color: #f5e0f5;
+}
+.main{
+    padding: 12px 3px;
+    margin: 12px 7px;
+    border: 2px solid purple;
+    background-color: #cdb4cd;
+}
+#main1{
+float: left;
+width: 48%;
+}
+#main2{
+float: right;
+width: 48%;
+}
+#main3{
+clear:both;
+}
+h1{
+    margin: auto;
+    width: 400px;
+}
+ 
