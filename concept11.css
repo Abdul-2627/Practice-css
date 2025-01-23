@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+.navBar{
+    background-color: blueviolet;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+.navBar ul{
+overflow: auto;
+}
+.navBar li{
+    float: left;
+    list-style: none;
+    margin:15px 10px;
+    font-size: 18px;
+}
+.navBar a{
+    text-decoration: none;
+    color: black;
+}
+.navBar input{
+    float: right;
+    margin: 17px 44px;
+    border-radius: 10px;
+    border: none;
+}
+.navBar a:hover{
+    color: white;
+}
