@@ -1,0 +1,24 @@
+#firstPara{
+    border: 4px solid rgb(242, 64, 248);
+    background-color: black;
+    height: 100px;
+    width: 300px;
+    color: burlywood;
+}
+#secondPara{
+    border: 4px solid rgb(242, 64, 248);
+    background-color: black;
+    height: 100px;
+    width: 300px;
+    color: burlywood;
+    border-top-left-radius: 14px;
+    border-bottom-right-radius: 14px;
+}
+#thirdPara{
+    height: 500px;
+    width: 400px;
+    border: 3px solid red;
+    background-image: url(https://cdn-icons-png.flaticon.com/256/25/25231.png);
+    background-position: center center;
+    background-repeat: no-repeat ;
+}
