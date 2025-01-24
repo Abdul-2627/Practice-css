@@ -1,0 +1,26 @@
+.box{
+    width: 150px;
+    height: 150px;
+    border: 2px solid black;
+}
+#box1{
+    background-color: red;
+    /* hide both element and space of markup  */
+    display: none;
+}
+#box2{
+    background-color: blue; 
+    /* will only hide  the element but space will be shown */
+     visibility: hidden; 
+} 
+#box3{
+    background-color: green;
+    position: relative;
+    z-index: 1;
+    top: 34px;
+}
+#box4{
+    background-color: yellow;
+    position: relative;
+    z-index: -1;
+}
