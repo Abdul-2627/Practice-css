@@ -1,0 +1,14 @@
+.container{
+    background-color: yellow;
+}
+div p{
+    background-color: aqua;
+    text-align: center;
+}
+div > p{
+    background-color: teal;
+}
+div + p{
+    background-color: blue;
+    text-align: end;
+}

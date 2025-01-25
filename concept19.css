@@ -1,0 +1,25 @@
+.container{
+margin:auto;
+width: 300px;
+display: block;
+}
+input{
+    display: block;
+}
+input[type='text']{
+    background-color: aqua;
+    color: rgb(247, 6, 146);
+    padding: 10px;
+    border: 2px solid rgb(247, 6, 146);
+}
+li:nth-child(5){
+    background-color: yellow;
+}
+li:nth-child(2n+2){
+    font-size: 20px;
+    background-color: blueviolet;
+}
+li:nth-child(odd){
+    font-size: 30px;
+    background-color: darkviolet;
+}
